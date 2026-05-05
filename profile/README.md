@@ -1,7 +1,5 @@
 # Yule Studio
 
-<img width="920" height="600" alt="image" src="https://github.com/user-attachments/assets/c3dbd06c-146d-4600-b5a9-808b9d80e445" />
-
 ---
 
 > AI 기반 엔지니어링 스튜디오  
