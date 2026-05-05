@@ -1,12 +1,12 @@
 # Yule Studio
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c3dbd06c-146d-4600-b5a9-808b9d80e445" />
+<img width="920" height="600" alt="image" src="https://github.com/user-attachments/assets/c3dbd06c-146d-4600-b5a9-808b9d80e445" />
 
+---
 
 > AI 기반 엔지니어링 스튜디오  
 > We build. We automate. We scale.
 
----
 
 Yule Studio는 AI와 자동화를 기반으로  
 지속적으로 성장하는 엔지니어링을 지향합니다.
