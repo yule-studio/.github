@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/Go-Infra%20%26%20CLI-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
-## Yule Studio
-
 Yule Studio는 자동화 실험, 백엔드 시스템 설계, DevOps 워크플로우 개선, 그리고 지속적인 성장을 목표로 운영하는 개인 엔지니어링 조직입니다.  
 단순히 여러 레포지토리를 모아두는 공간이 아니라, 반복되는 개발 작업을 구조화하고, 설계 판단을 문서화하며, 실제 서비스 운영에 가까운 방식으로 기술을 실험하는 작업 공간입니다.
 
